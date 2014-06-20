@@ -7,7 +7,7 @@ dbSyncPoint is a demo project showing how to use a SQL Server database to synchr
 Technology
 ----------
 
-SQL part of the code was tested on SQL Server 2012. Proof of concept C# console application was written using VS2010.
+SQL part of the code was tested on SQL Server 2012. Proof of concept C# console application (sample log run [here](sample.log)) was written using VS2010.
 
 License
 -------
